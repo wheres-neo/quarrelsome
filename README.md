@@ -24,7 +24,7 @@ Best of all, Quarrelsome is **100% open source**, allowing anyone to contribute,
 mkdir my-project && cd my-project
 
 # Step 2 - Clone the Quarrelsome repo
-git clone https://github.com/yourusername/quarrelsome.git
+git clone https://github.com/wheres-neo/quarrelsome.git
 
 # Step 3 - Enter the Quarrelsome directory
 cd quarrelsome
